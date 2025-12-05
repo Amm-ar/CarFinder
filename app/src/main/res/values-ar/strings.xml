@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">البحث عن السيارات المفقودة</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="create_account">إنشاء حساب جديد</string>
+    <string name="welcome_back">مرحباً بعودتك</string>
+    <string name="have_account">لديك حساب بالفعل؟ سجل الدخول</string>
+    <string name="no_account">ليس لديك حساب؟ أنشئ حساباً</string>
+    <string name="search_hint">بحث (النوع، الموديل، اللوحة، الشاسي)</string>
+    <string name="all">الكل</string>
+    <string name="lost">مفقودة</string>
+    <string name="found">موجودة</string>
+    <string name="no_cars">لا توجد سيارات</string>
+    <string name="year_label">السنة: %d</string>
+    <string name="color_label">اللون: %s</string>
+    <string name="plate_label">اللوحة: %s</string>
+    <string name="chassis_label">الشاسي: %s</string>
+    <string name="report_car">الإبلاغ عن سيارة</string>
+    <string name="status">الحالة</string>
+    <string name="make_label">الشركة (مثال: تويوتا)</string>
+    <string name="model_label">الموديل (مثال: كامري)</string>
+    <string name="year_input">السنة</string>
+    <string name="color_input">اللون</string>
+    <string name="plate_input">رقم اللوحة</string>
+    <string name="chassis_input">رقم الشاسي</string>
+    <string name="contact_input">معلومات الاتصال (هاتف/بريد)</string>
+    <string name="desc_input">الوصف / التفاصيل</string>
+    <string name="submit_report">إرسال البلاغ</string>
+    <string name="error_prefix">خطأ: %s</string>
+
+    <!-- Profile Strings -->
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="profile_updated">تم تحديث الملف الشخصي بنجاح</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lost Car Search</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="have_account">Already have an account? Log In</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="search_hint">Search by make, model, plate or chassis</string>
+    <string name="all">All</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="no_cars">No cars found</string>
+    <string name="year_label">Year: %d</string>
+    <string name="color_label">Color: %s</string>
+    <string name="plate_label">Plate: %s</string>
+    <string name="chassis_label">Chassis: %s</string>
+    <string name="report_car">Report Car</string>
+    <string name="status">Status</string>
+    <string name="make_label">Make (e.g., Toyota)</string>
+    <string name="model_label">Model (e.g., Camry)</string>
+    <string name="year_input">Year</string>
+    <string name="color_input">Color</string>
+    <string name="plate_input">License Plate</string>
+    <string name="chassis_input">Chassis Number</string>
+    <string name="contact_input">Contact Info (Phone/Email)</string>
+    <string name="desc_input">Description / Details</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="error_prefix">Error: %s</string>
+    
+    <!-- Profile Strings -->
+    <string name="profile_title">Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="logout">Log Out</string>
+    <string name="profile_updated">Profile updated successfully</string>
+</resources>

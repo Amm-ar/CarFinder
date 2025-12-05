@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Group centered to help with positioning if needed -->
+    <group>
+        
+        <!-- Magnifying Glass Handle -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#555555"
+            android:strokeWidth="8"
+            android:strokeLineCap="round"
+            android:pathData="M75,75 L95,95"/>
+            
+        <!-- Car Body -->
+        <path
+            android:fillColor="#008577"
+            android:pathData="M32,58 L32,50 L38,50 L44,42 L64,42 L70,50 L76,50 L76,58 Z"/>
+            
+        <!-- Car Windows (Light Blue/White) -->
+        <path
+            android:fillColor="#E0F7FA"
+            android:pathData="M40,49 L45,44 L63,44 L68,49 Z"/>
+            
+        <!-- Car Wheels -->
+        <path
+            android:fillColor="#333333"
+            android:pathData="M38,58 A5,5 0 1,0 38,68 A5,5 0 1,0 38,58 Z"/>
+        <path
+            android:fillColor="#333333"
+            android:pathData="M70,58 A5,5 0 1,0 70,68 A5,5 0 1,0 70,58 Z"/>
+
+        <!-- Magnifying Glass Lens (Rim and subtle fill) -->
+        <path
+            android:fillColor="#22ADD8E6"
+            android:strokeColor="#444444"
+            android:strokeWidth="4"
+            android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z"/>
+            
+        <!-- Gloss/Reflection on Lens (Optional for polish) -->
+        <path
+            android:fillColor="#44FFFFFF"
+            android:pathData="M45,35 A15,15 0 0,0 40,50"
+            android:strokeWidth="3"
+            android:strokeColor="#88FFFFFF"
+            android:strokeLineCap="round"/>
+
+    </group>
+</vector>
