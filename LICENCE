@@ -1,0 +1,72 @@
+MIT License
+
+Copyright (c) 2023 [Your Name/Organization] - Car Finder Application
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. When redistributing, modifying, or using this code, proper attribution MUST
+   be given to the original author by including:
+   - A visible credit/link to the original repository
+   - The original copyright notice in any documentation or distribution
+   - A clear indication that the work is based on the Car Finder project
+
+3. For commercial use or redistribution in proprietary software that does not
+   include source code, written permission from the copyright holder is required.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===============================================================================
+
+ATTRIBUTION AND INTELLECTUAL PROPERTY REQUIREMENTS:
+
+This license grants usage rights while preserving the intellectual property
+rights of the original author. When using this software:
+
+REQUIRED ATTRIBUTION:
+- Include the following text in your documentation or about section:
+  \"This software includes components from Car Finder App developed by [Your Name]\"
+- Provide a link to the original repository: https://github.com/yourusername/car-finder
+- Maintain this copyright notice in all distributions
+
+COMMERCIAL USE:
+- For open-source projects: Attribution as above is sufficient
+- For proprietary/commercial software: Contact the author for licensing terms
+- For SaaS products using this code: Written permission required
+
+MODIFICATIONS:
+- Modified versions must clearly indicate changes made
+- Must include original copyright and attribution
+- Cannot remove or obscure the original authorship
+
+INTELLECTUAL PROPERTY:
+- All original code, design, and architecture remain property of the author
+- This license does not transfer ownership of intellectual property
+- The author retains all moral rights to the work
+
+For additional licensing options or commercial inquiries, please contact:
+[Your Email Address]
+
+===============================================================================
+
+Quick Attribution Template for Your Project:
+
+Include this text in your project's documentation:
+
+\"This project uses code from Car Finder App (https://github.com/yourusername/car-finder)
+developed by [Your Name], licensed under MIT with attribution requirements.\"
+
+Version: 1.0 | Last Updated: [Current Date]
